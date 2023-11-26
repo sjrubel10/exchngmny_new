@@ -13,6 +13,7 @@ if( isset( $_GET['searchkey'] ) && !empty( $_GET['searchkey'] ) ){
     $news = [];
 }
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
